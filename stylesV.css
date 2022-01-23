@@ -1,0 +1,30 @@
+label {
+  cursor: default;
+}
+h1{
+    color: purple;
+    
+  }
+h1 {
+    color: green;
+    font-size: 20pt;
+  }
+div {
+    font-family: 'courier';
+  }
+table, td, th {
+    border: 1px solid black;
+  }
+table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+/* The first line of every <p> element. */
+p {word-wrap: break-word;}
+p::first-line {
+    color: blue;
+    text-transform: uppercase;
+  }
+
+
+  /* https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table */
